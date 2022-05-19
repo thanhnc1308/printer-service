@@ -1,0 +1,21 @@
+{
+  "name": "printer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.34",
+    "node-thermal-printer": "^4.1.2",
+    "receiptline": "^1.9.0",
+    "sharp": "^0.30.4",
+    "winston": "^3.7.2",
+    "winston-daily-rotate-file": "^4.6.1"
+  }
+}

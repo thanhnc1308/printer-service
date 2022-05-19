@@ -1,0 +1,7 @@
+node_modules
+*-audit.json
+*.log
+*-linux
+*-macos
+*.exe
+yarn.lock

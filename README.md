@@ -1,0 +1,1 @@
+- Run pkg .\index.js to build in Windows
